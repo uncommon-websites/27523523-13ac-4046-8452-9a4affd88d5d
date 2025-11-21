@@ -18,5 +18,17 @@
   {
     "prompt": "Professional headshot of a Hispanic woman ML engineer at her workstation in a co-working space. She appears in her late 20s, casually dressed in a t-shirt and hoodie, focused on her laptop which displays code. The environment feels authentic: coffee cup, technical books, whiteboard with mathematical diagrams, and subtle Electric Violet details in the decor. Cool, soft natural light with a slight indigo cast, moderate saturation, and high clarity. The subject is positioned slightly to the side, with a look of determined focus. The background shows lived-in workspace elements with intentional negative space and muted tones. Candid, documentary photographic approach—no tech dashboards, no text, no abstract elements.",
     "filename": "/generated/image-professional-headshot-of-a-hispanic-woma.webp"
+  },
+  {
+    "prompt": "Professional headshot of a confident female machine learning engineer in her late 20s to late 30s, captured in a real startup workspace with cool natural light. She is dressed casually in a hoodie and t-shirt, with subtle Electric Violet accents in her clothing or accessories. Background shows a lived-in tech environment—open floor plan, whiteboard with genuine technical diagrams, and a laptop with code visible. The mood is calm, focused, and quietly determined, with a slight candid quality. Composition uses rule of thirds, soft negative space, and hints of graphite and indigo tones throughout. No staged poses, no tech interfaces, no text, no posters, no abstract elements.",
+    "filename": "/generated/image-professional-headshot-of-a-confident-fem.webp"
+  },
+  {
+    "prompt": "Professional headshot of a smiling male AI researcher, mid-30s, seated at his desk in a modern co-working space with exposed brick and natural cool window light. He wears casual startup attire with a relaxed, approachable expression. The background subtly includes technical props like notebooks with mathematical sketches, a coffee cup, and a laptop showing code. Colors feature a cool cast with moderate saturation, and Electric Violet accents in small personal items. The image feels authentic and documentary, with a slight candidness and real workspace details. No screens, no text, no posters, no abstract shapes.",
+    "filename": "/generated/image-professional-headshot-of-a-smiling-male-.webp"
+  },
+  {
+    "prompt": "Professional headshot of a diverse tech professional (mid-20s to late-30s) in a collaborative startup office, with cool, soft window light and a calm, focused mood. The subject is casually dressed, representing authentic diversity (gender, ethnicity) in the tech workforce. Environmental details include a whiteboard with technical diagrams, code on a laptop, and neutral graphite/zinc tones with pops of Electric Violet in clothing or workspace objects. Composition features negative space and natural posture, conveying quiet confidence and intellectual intensity. No text, no posters, no floating elements, no dashboards.",
+    "filename": "/generated/image-professional-headshot-of-a-diverse-tech-.webp"
   }
 ]

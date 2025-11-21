@@ -6,7 +6,7 @@
 	import CallToAction from "$lib/components/layout/CallToAction.svelte";
 	import AboutTeaser from "$lib/components/layout/AboutTeaser.svelte";
 	import LogoScroller from "$lib/components/layout/LogoScroller.svelte";
-	import CenteredTextOnlyHero from "$lib/components/layout/hero-sections/CenteredTextOnlyHero.svelte";
+	import CustomerCardHero from "$lib/components/layout/hero-sections/CustomerCardHero.svelte";
 
 	// Icons
 	import IconTrendingDown from "~icons/lucide/trending-down";
@@ -17,10 +17,27 @@
 	import IconZap from "~icons/lucide/zap";
 </script>
 
-<CenteredTextOnlyHero
+<CustomerCardHero
+	centered={true}
 	title="80% cheaper AI training through automatic cross-cloud arbitrage"
 	subtitle="Run your GPU workloads across AWS, GCP, Azure, and specialty providers with automatic spot instance orchestration. No more hunting for availability or managing preemptions."
-	imageSrc="/generated/image-a-documentary-style-photograph-of-two-ml.webp"
+	customers={[
+		{
+			name: "Dr. Maya Chen",
+			position: "ML Research Lead",
+			imageSrc: "/generated/image-professional-headshot-of-a-confident-fem.webp"
+		},
+		{
+			name: "Alex Rodriguez",
+			position: "AI Infrastructure Engineer",
+			imageSrc: "/generated/image-professional-headshot-of-a-smiling-male-.webp"
+		},
+		{
+			name: "Jordan Kim",
+			position: "Senior ML Engineer",
+			imageSrc: "/generated/image-professional-headshot-of-a-diverse-tech-.webp"
+		}
+	]}
 	callsToAction={[
 		{ href: "https://cloud.sf-tensor.com", label: "Join waitlist" },
 		{ href: "mailto:collab@sf-tensor.com", label: "Talk to an engineer" }
