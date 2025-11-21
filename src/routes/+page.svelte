@@ -7,6 +7,14 @@
 	import AboutTeaser from "$lib/components/layout/AboutTeaser.svelte";
 	import LogoScroller from "$lib/components/layout/LogoScroller.svelte";
 	import CenteredTextOnlyHero from "$lib/components/layout/hero-sections/CenteredTextOnlyHero.svelte";
+
+	// Icons
+	import IconTrendingDown from "~icons/lucide/trending-down";
+	import IconRefreshCw from "~icons/lucide/refresh-cw";
+	import IconCloud from "~icons/lucide/cloud";
+	import IconActivity from "~icons/lucide/activity";
+	import IconCpu from "~icons/lucide/cpu";
+	import IconZap from "~icons/lucide/zap";
 </script>
 
 <CenteredTextOnlyHero
@@ -29,9 +37,8 @@
 />
 
 <Summary
-	generating
 	title="What we do"
-	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
+	text="SF Tensor eliminates the complexity of running AI workloads across multiple cloud providers. We automatically find the cheapest available GPU compute across AWS, GCP, Azure, and specialty providers, then handle all the orchestration, migrations, and preemptions so ML engineers can focus on training models instead of managing infrastructure. It's cloud computing the way it was supposed to work: simple, affordable, and reliable."
 />
 
 <Testimonials
