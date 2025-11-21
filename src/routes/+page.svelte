@@ -55,11 +55,7 @@
 
 <Summary
 	title="What we do"
-<<<<<<< HEAD
-	text="SF Tensor eliminates the complexity of running AI workloads across multiple cloud providers. We automatically find the cheapest available GPU compute across AWS, GCP, Azure, and specialty providers, then handle all the orchestration, migrations, and preemptions so ML engineers can focus on training models instead of managing infrastructure. It's cloud computing the way it was supposed to work: simple, affordable, and reliable."
-=======
 	text="SF Tensor eliminates the complexity of multi-cloud GPU management for ML engineers at AI startups. We automatically orchestrate spot instances across AWS, GCP, Azure, and specialty providers, delivering up to 80% cost savings while handling preemptions and availability hunting for you. Focus on training models, not managing infrastructure."
->>>>>>> 92b8c6ea001ce2dfde9f714ca33e3c6b8e111e34
 />
 
 <Testimonials
