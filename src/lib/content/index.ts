@@ -1,7 +1,7 @@
 export const CONFIG = {
-	companyName: "Company",
-	description: "Description",
+	companyName: "SF Tensor",
+	description: "80% cheaper AI training via automatic cross-cloud arbitrage and spot instance orchestration. Built by engineers for engineers.",
 	image: "/og.png",
-	url: "https://example.com",
+	url: "https://sf-tensor.com",
 	fontFamily: "Inter Variable"
 };
