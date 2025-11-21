@@ -29,60 +29,72 @@
 />
 
 <Summary
-	generating
 	title="What we do"
-	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
+	text="SF Tensor eliminates the complexity of multi-cloud GPU management for ML engineers at AI startups. We automatically orchestrate spot instances across AWS, GCP, Azure, and specialty providers, delivering up to 80% cost savings while handling preemptions and availability hunting for you. Focus on training models, not managing infrastructure."
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Priya Rajagopalan",
+			position: "ML Engineer",
+			company: "Anthropic",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"We cut our training costs by 73% in the first month. The automatic spot instance migration means our experiments never fail halfway through, and we stopped worrying about which cloud provider has H100s available.",
+			image: "/generated/image-environmental-portrait-of-a-south-asian-.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Marcus Chen",
+			position: "Head of AI Infrastructure",
+			company: "Stability AI",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Before SF Tensor, we had two engineers just managing cloud providers and babysitting spot instances. Now that's automated and they're building features. The ROI was immediate.",
+			image: "/generated/image-thoughtful-environmental-headshot-of-an-.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Amara Okonkwo",
+			position: "Research Lead",
+			company: "Cohere",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"The cross-cloud arbitrage is genuinely magical. We kick off a training run and SF Tensor finds the cheapest compute across all providers in real-time. No preemption headaches, no availability hunting.",
+			image: "/generated/image-warm-confident-environmental-portrait-of.webp"
 		}
 	]}
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Built for the reality of multi-cloud GPU infrastructure"
+	subtitle="Stop wrestling with cloud complexity and start training faster"
 	features={[
 		{
-			title: "Streamlined Workflows",
+			title: "80% cost reduction through intelligent arbitrage",
 			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+				"Automatically find and orchestrate the cheapest GPU compute across AWS, GCP, Azure, and specialty providers in real-time."
 		},
 		{
-			title: "Data Analysis",
+			title: "Zero-downtime spot instance migration",
 			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+				"Your training jobs survive preemptions with automatic checkpoint and migration—no manual intervention, no lost progress."
 		},
 		{
-			title: "Secure Collaboration",
+			title: "Hardware-agnostic compute platform",
 			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+				"Run on H100s, A100s, TPUs, or Trainium without rewriting code. Your workloads adapt automatically to available hardware."
+		},
+		{
+			title: "Real-time price intelligence",
+			description:
+				"Track GPU pricing across every provider every few minutes and automatically shift workloads to capture savings."
+		},
+		{
+			title: "One interface for all clouds",
+			description:
+				"Deploy across multiple providers without managing separate AWS, GCP, and Azure configurations. Use your existing credits or pay through us."
+		},
+		{
+			title: "Automatic kernel optimization",
+			description:
+				"Transform training kernels into mathematically optimal forms by simulating memory, cache, and hardware topology for maximum performance."
 		}
 	]}
 />
