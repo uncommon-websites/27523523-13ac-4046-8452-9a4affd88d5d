@@ -6,16 +6,27 @@
 	import CallToAction from "$lib/components/layout/CallToAction.svelte";
 	import AboutTeaser from "$lib/components/layout/AboutTeaser.svelte";
 	import LogoScroller from "$lib/components/layout/LogoScroller.svelte";
-	import Hero from "$lib/components/layout/hero-sections/Hero.svelte";
+	import CenteredTextOnlyHero from "$lib/components/layout/hero-sections/CenteredTextOnlyHero.svelte";
 </script>
 
-<Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+<CenteredTextOnlyHero
+	title="80% cheaper AI training through automatic cross-cloud arbitrage"
+	subtitle="Run your GPU workloads across AWS, GCP, Azure, and specialty providers with automatic spot instance orchestration. No more hunting for availability or managing preemptions."
+	imageSrc="/generated/image-a-documentary-style-photograph-of-two-ml.webp"
+	callsToAction={[
+		{ href: "https://cloud.sf-tensor.com", label: "Join waitlist" },
+		{ href: "mailto:collab@sf-tensor.com", label: "Talk to an engineer" }
+	]}
 />
-<LogoScroller label="" generating />
+<LogoScroller
+	label="Trusted by ML teams worldwide"
+	logoUrls={[
+		'https://cdn.brandfetch.io/huggingface.co/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/stability.ai/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/anthropic.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/cohere.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
