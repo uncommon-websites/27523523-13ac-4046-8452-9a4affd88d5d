@@ -21,9 +21,9 @@ A minimalist teaser for the about page.
 
 	// Data
 	const teamMember: TeamMember = {
-		name: "Alex Morgan",
+		name: "Sam Rodriguez",
 		role: "Founder & CEO",
-		image: "https://www.unc.mn/image-placeholder.svg"
+		image: "/generated/image-environmental-portrait-of-a-technical-fo.webp"
 	};
 </script>
 
@@ -32,7 +32,7 @@ A minimalist teaser for the about page.
 		<div class="relative mx-auto grid max-w-2xl place-items-center gap-16">
 			<ScrollText
 				class="text-title1 text-center"
-				text={`"We're building the future of digital experiences, crafting innovative solutions that transform how people interact with technology in their everyday lives"`}
+				text={`"I spent three years watching brilliant engineers waste 40% of their time hunting for GPUs and babysitting spot instances instead of training models. Cloud computing promised us simplicity—what we got was a full-time job managing infrastructure. We built SF Tensor because compute should be boring, and the math that makes it work shouldn't be."`}
 			/>
 
 			<!-- Team Member & CTA Section -->

@@ -1,10 +1,17 @@
 # Todo Archive
 
 
+<<<<<<< HEAD
 ## Session: 2025-11-21T11:22:40.151Z
 
 <!-- DO NOT EDIT - Managed by todo_list tool -->
 <!-- Updated: 2025-11-21T11:07:11.131Z -->
+=======
+## Session: 2025-11-21T11:07:25.109Z
+
+<!-- DO NOT EDIT - Managed by todo_list tool -->
+<!-- Updated: 2025-11-21T11:05:50.813Z -->
+>>>>>>> 92b8c6ea001ce2dfde9f714ca33e3c6b8e111e34
 
 # Current Todo List State
 
@@ -19,6 +26,7 @@
 - [x] Verify theme.css has dark mode block uncommented
 - [x] Verify lib/content/index.ts has correct brand metadata
 - [x] Run comprehensive error check and fix all issues
+<<<<<<< HEAD
 - [x] Generate 3 professional headshot images (3:4 aspect ratio) matching distinctive names and genders
 - [ ] Create 3 compelling testimonials showcasing cost savings, time efficiency, and risk reduction
 - [ ] Update homepage testimonials with new content and images
@@ -30,5 +38,7 @@
 - [ ] Add appropriate Lucide icons to each feature for visual hierarchy
 - [ ] Remove 'generating' prop from Features component
 - [ ] Run comprehensive error check and fix all issues
+=======
+>>>>>>> 92b8c6ea001ce2dfde9f714ca33e3c6b8e111e34
 
 ──────────────────────────────────────────────────

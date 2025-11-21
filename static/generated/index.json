@@ -8,6 +8,7 @@
     "filename": "/generated/image-a-documentary-style-photograph-of-two-ml.webp"
   },
   {
+<<<<<<< HEAD
     "prompt": "Professional headshot of an Asian woman ML engineer in a modern, lived-in startup office. She is in her late 20s, dressed casually in a hoodie and jeans, sitting at her desk with a laptop open showing code. The environment is authentic and functional, with mixed furniture, technical books, coffee cup, and subtle Electric Violet accents in the workspace. Cool, natural window light casts a soft, slightly indigo-tinged tone; moderate saturation and high clarity. The subject is focused, with a calm, determined expression, slightly off-center in the frame. Negative space with cool gray background elements, subtle layers of workspace visible behind her. Candid, documentary style—no posing, no tech dashboards, no text, no abstract elements.",
     "filename": "/generated/image-professional-headshot-of-an-asian-woman-.webp"
   },
@@ -30,5 +31,21 @@
   {
     "prompt": "Professional headshot of a diverse tech professional (mid-20s to late-30s) in a collaborative startup office, with cool, soft window light and a calm, focused mood. The subject is casually dressed, representing authentic diversity (gender, ethnicity) in the tech workforce. Environmental details include a whiteboard with technical diagrams, code on a laptop, and neutral graphite/zinc tones with pops of Electric Violet in clothing or workspace objects. Composition features negative space and natural posture, conveying quiet confidence and intellectual intensity. No text, no posters, no floating elements, no dashboards.",
     "filename": "/generated/image-professional-headshot-of-a-diverse-tech-.webp"
+=======
+    "prompt": "Environmental portrait of a South Asian woman in her late 20s, dressed casually in a hoodie and jeans, seated in a modern startup workspace with exposed brick and technical props like a laptop with code visible, coffee cup, and a whiteboard with mathematical diagrams in the background. She has a confident, calm smile, and is positioned slightly off-center, with natural cool window light and balanced negative space. The atmosphere is quietly professional and authentic, conveying focused determination without artificial posing.",
+    "filename": "/generated/image-environmental-portrait-of-a-south-asian-.webp"
+  },
+  {
+    "prompt": "Thoughtful environmental headshot of an East Asian man in his early 30s, wearing a t-shirt and casual technical attire, in a lived-in home office setup. He is looking slightly off-camera with a contemplative expression, surrounded by real work objects: open notebook with sketches, laptop showing code, and books on technical subjects. The lighting is cool and natural, with subtle Electric Violet accents and a background featuring muted graphite tones. Composition uses rule of thirds, with moderate negative space and a documentary, authentic feel.",
+    "filename": "/generated/image-thoughtful-environmental-headshot-of-an-.webp"
+  },
+  {
+    "prompt": "Warm, confident environmental portrait of a Black woman in her mid-30s, casual yet professional in a co-working space with modern, functional furniture. She is shown with a subtle, genuine smile, hands resting on a laptop displaying code, and technical books nearby. Cool, natural light streams in from a window, creating gentle shadows and emphasizing the indigo-inspired color palette. The scene feels authentic and focused, with carefully balanced negative space and a calm, purposeful energy.",
+    "filename": "/generated/image-warm-confident-environmental-portrait-of.webp"
+  },
+  {
+    "prompt": "Environmental portrait of a technical founder in their late 20s, casually dressed in a hoodie and jeans, seated at a modern workspace in a startup office. The founder is focused, with a slight furrow of concentration, surrounded by authentic computing equipment: open laptop displaying code, notebooks with handwritten diagrams, coffee cup, and technical books. The scene is lit by cool, natural window light with a subtle indigo cast, featuring graphite and zinc tones in furniture and architecture. The workspace is lived-in but tidy, with subtle Electric Violet accents in small objects or clothing. The composition uses the rule of thirds, with the founder slightly off-center, negative space providing breathing room, and layers showing foreground workspace details, the founder in the midground, and the open office environment in the background. The mood is calm, purposeful, and quietly confident, evoking the real experience of deep technical work.",
+    "filename": "/generated/image-environmental-portrait-of-a-technical-fo.webp"
+>>>>>>> 92b8c6ea001ce2dfde9f714ca33e3c6b8e111e34
   }
 ]
