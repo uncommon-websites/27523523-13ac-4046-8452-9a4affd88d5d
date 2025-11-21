@@ -98,5 +98,14 @@
 		}
 	]}
 />
-<AboutTeaser generating />
-<CallToAction generating />
+<AboutTeaser />
+<CallToAction 
+	title="Stop overpaying for GPU compute"
+	subtitle="Join the waitlist today"
+	description="ML teams are cutting training costs by up to 80% with SF Tensor's automatic cross-cloud orchestration. No more hunting for availability, no preemption headaches, no cloud complexity. Just faster, cheaper training runs that actually complete."
+	imageSrc="/generated/image-a-mid-30s-ml-engineer-sits-at-a-modern-d.webp"
+	callsToAction={[
+		{ href: "https://cloud.sf-tensor.com", label: "Join waitlist", variant: "primary" },
+		{ href: "mailto:collab@sf-tensor.com", label: "Talk to an engineer", variant: "secondary" }
+	]}
+/>
