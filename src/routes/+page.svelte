@@ -36,6 +36,16 @@
 			name: "Jordan Kim",
 			position: "Senior ML Engineer",
 			imageSrc: "/generated/image-professional-headshot-of-a-diverse-tech-.webp"
+		},
+		{
+			name: "David Zhang",
+			position: "ML Platform Engineer",
+			imageSrc: "/generated/image-environmental-portrait-of-a-confident-as.webp"
+		},
+		{
+			name: "Aisha Williams",
+			position: "AI Research Scientist",
+			imageSrc: "/generated/image-environmental-portrait-of-a-smiling-blac.webp"
 		}
 	]}
 	callsToAction={[
